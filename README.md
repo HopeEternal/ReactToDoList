@@ -1,3 +1,9 @@
+
+## React ToDoList
+
+A simple and light-weight React ToDoList, using built-in state management.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
